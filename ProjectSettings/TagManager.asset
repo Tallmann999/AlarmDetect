@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 749689335
+    locked: 0
+  - name: GroundDecor
+    uniqueID: 2607985167
+    locked: 0
+  - name: Interaction
+    uniqueID: 2521647811
+    locked: 0
+  - name: Front
+    uniqueID: 1823702749
+    locked: 0

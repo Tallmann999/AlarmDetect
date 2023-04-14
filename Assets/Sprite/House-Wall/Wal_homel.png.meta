@@ -1,0 +1,1634 @@
+fileFormatVersion: 2
+guid: ca1f986579da20b4d98a90e0895a65ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2073913844824923160
+    second: Wal_homel_0
+  - first:
+      213: 8769287176283135972
+    second: Wal_homel_1
+  - first:
+      213: -5420637871629824596
+    second: Wal_homel_2
+  - first:
+      213: 3750983370180498133
+    second: Wal_homel_3
+  - first:
+      213: -8292221268339366571
+    second: Wal_homel_4
+  - first:
+      213: -9129816969383584008
+    second: Wal_homel_5
+  - first:
+      213: 4313351565569725814
+    second: Wal_homel_6
+  - first:
+      213: 4695437995415166228
+    second: Wal_homel_7
+  - first:
+      213: 921512013972271610
+    second: Wal_homel_8
+  - first:
+      213: -7594203626815181253
+    second: Wal_homel_9
+  - first:
+      213: 8048478281203744360
+    second: Wal_homel_10
+  - first:
+      213: -225805606911714847
+    second: Wal_homel_11
+  - first:
+      213: 4385838969901880964
+    second: Wal_homel_12
+  - first:
+      213: -568761512478741330
+    second: Wal_homel_13
+  - first:
+      213: 7250161272031473814
+    second: Wal_homel_14
+  - first:
+      213: 6610359076138732029
+    second: Wal_homel_15
+  - first:
+      213: -8131347966380281482
+    second: Wal_homel_16
+  - first:
+      213: 4113278384909789401
+    second: Wal_homel_17
+  - first:
+      213: -6016899070905749855
+    second: Wal_homel_18
+  - first:
+      213: 4392147274505628671
+    second: Wal_homel_19
+  - first:
+      213: -7735060506661127582
+    second: Wal_homel_20
+  - first:
+      213: -71464669437445537
+    second: Wal_homel_21
+  - first:
+      213: -7349130183471766508
+    second: Wal_homel_22
+  - first:
+      213: 3743660220273071760
+    second: Wal_homel_23
+  - first:
+      213: -4201971190752132847
+    second: Wal_homel_24
+  - first:
+      213: 6934755514716005853
+    second: Wal_homel_25
+  - first:
+      213: -4796705389302500873
+    second: Wal_homel_26
+  - first:
+      213: -5234384875255197370
+    second: Wal_homel_27
+  - first:
+      213: -3469259514997716071
+    second: Wal_homel_28
+  - first:
+      213: 9148249112870676042
+    second: Wal_homel_29
+  - first:
+      213: 6657427545976493030
+    second: Wal_homel_30
+  - first:
+      213: -8818546174943513255
+    second: Wal_homel_31
+  - first:
+      213: -7660849251382934995
+    second: Wal_homel_32
+  - first:
+      213: -2764298172903231825
+    second: Wal_homel_33
+  - first:
+      213: 4877515405554150598
+    second: Wal_homel_34
+  - first:
+      213: -6877433472573307325
+    second: Wal_homel_35
+  - first:
+      213: -1400440122011510825
+    second: Wal_homel_36
+  - first:
+      213: -6031658140814573591
+    second: Wal_homel_37
+  - first:
+      213: -7441380042677542464
+    second: Wal_homel_38
+  - first:
+      213: -80859844411043360
+    second: Wal_homel_39
+  - first:
+      213: -1440937426030701420
+    second: Wal_homel_40
+  - first:
+      213: 1009352154814954234
+    second: Wal_homel_41
+  - first:
+      213: -5070309038208921587
+    second: Wal_homel_42
+  - first:
+      213: -3399151551448154866
+    second: Wal_homel_43
+  - first:
+      213: 4861371475328011112
+    second: Wal_homel_44
+  - first:
+      213: 2612374114533656799
+    second: Wal_homel_45
+  - first:
+      213: -809318233821530519
+    second: Wal_homel_46
+  - first:
+      213: 8994361947129055292
+    second: Wal_homel_47
+  - first:
+      213: -819536060994282591
+    second: Wal_homel_48
+  - first:
+      213: -6449738303926687801
+    second: Wal_homel_49
+  - first:
+      213: -2148612719162686530
+    second: Wal_homel_50
+  - first:
+      213: -6945331396721842977
+    second: Wal_homel_51
+  - first:
+      213: -8949142330202711033
+    second: Wal_homel_52
+  - first:
+      213: 2133043004119033814
+    second: Wal_homel_53
+  - first:
+      213: 8230059682868470548
+    second: Wal_homel_54
+  - first:
+      213: -2622658173125041581
+    second: Wal_homel_55
+  - first:
+      213: 5742838448313408815
+    second: Wal_homel_56
+  - first:
+      213: 8825364060614221238
+    second: Wal_homel_57
+  - first:
+      213: 2376034783303694313
+    second: Wal_homel_58
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wal_homel_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 600
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cdd8f57a508cc10800000000000000
+      internalID: 2073913844824923160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 601
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef9eb3a934c2b970800000000000000
+      internalID: 8769287176283135972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 600
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad8975539606c4b0800000000000000
+      internalID: -5420637871629824596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 601
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2910a608b2e0430800000000000000
+      internalID: 3750983370180498133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 601
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55561b5c0bc1cec80800000000000000
+      internalID: -8292221268339366571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 599
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fede8396df5c4180800000000000000
+      internalID: -9129816969383584008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 598
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6759821556a1cdb30800000000000000
+      internalID: 4313351565569725814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 549
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dd795bafb892140800000000000000
+      internalID: 4695437995415166228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 549
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af172195b4ed9cc00800000000000000
+      internalID: 921512013972271610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 550
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea2b78908fb9690800000000000000
+      internalID: -7594203626815181253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 549
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e7895aa50f1bf60800000000000000
+      internalID: 8048478281203744360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 548
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95cb33ff6cddcf0800000000000000
+      internalID: -225805606911714847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 548
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48611135e41addc30800000000000000
+      internalID: 4385838969901880964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 548
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac6ac6fa6a5b18f0800000000000000
+      internalID: -568761512478741330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690fabf834fbd9460800000000000000
+      internalID: 7250161272031473814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 505
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9470b7e86bcbb50800000000000000
+      internalID: 6610359076138732029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671fec63b16a72f80800000000000000
+      internalID: -8131347966380281482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d827d2e5ec451930800000000000000
+      internalID: 4113278384909789401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 505
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aee8458c2eaf7ca0800000000000000
+      internalID: -6016899070905749855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbab12fcaa04fc30800000000000000
+      internalID: 4392147274505628671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_20
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 505
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a7f48837b87a490800000000000000
+      internalID: -7735060506661127582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 451
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ab034034b120ff0800000000000000
+      internalID: -71464669437445537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41460161905a20a90800000000000000
+      internalID: -7349130183471766508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0961325b22724f330800000000000000
+      internalID: 3743660220273071760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1114bca07799fa5c0800000000000000
+      internalID: -4201971190752132847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd524d216633d3060800000000000000
+      internalID: 6934755514716005853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_26
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f13c6accddae6db0800000000000000
+      internalID: -4796705389302500873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_27
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6419cbc50babb57b0800000000000000
+      internalID: -5234384875255197370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bcaee1ad6badfc0800000000000000
+      internalID: -3469259514997716071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a466071491c15fe70800000000000000
+      internalID: 9148249112870676042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e354db941fe36c50800000000000000
+      internalID: 6657427545976493030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955bc1ff9fa3e9580800000000000000
+      internalID: -8818546174943513255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_32
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 403
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22c08dd1323fa590800000000000000
+      internalID: -7660849251382934995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae67d6257d33a9d0800000000000000
+      internalID: -2764298172903231825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 355
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccec8e4b6a60b340800000000000000
+      internalID: 4877515405554150598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 355
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34603e4e1b27e80a0800000000000000
+      internalID: -6877433472573307325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 356
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d79c4ef023a09ce0800000000000000
+      internalID: -1400440122011510825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 356
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef7726c0ee3b4ca0800000000000000
+      internalID: -6031658140814573591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_38
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1268df648eab890800000000000000
+      internalID: -7441380042677542464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 355
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e15941666ab0eef0800000000000000
+      internalID: -80859844411043360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_40
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 353
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494dfd1ab03c00ce0800000000000000
+      internalID: -1440937426030701420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 311
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa3501ef60f10e00800000000000000
+      internalID: 1009352154814954234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 312
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00da1c1bc4a2a9b0800000000000000
+      internalID: -5070309038208921587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 312
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0df6366ca9c3d0d0800000000000000
+      internalID: -3399151551448154866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 314
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b8424a99f077340800000000000000
+      internalID: 4861371475328011112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_45
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 310
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8443d8a64014420800000000000000
+      internalID: 2612374114533656799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 309
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96632d2ba59b4c4f0800000000000000
+      internalID: -809318233821530519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 309
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c380be7698462dc70800000000000000
+      internalID: 8994361947129055292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_48
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 311
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab10db6b4c60a4f0800000000000000
+      internalID: -819536060994282591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 262
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7283c4f2ded76a0800000000000000
+      internalID: -6449738303926687801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_50
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 216
+        width: 3
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb30c62ad189e22e0800000000000000
+      internalID: -2148612719162686530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_51
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4e60384e93d9f90800000000000000
+      internalID: -6945331396721842977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 261
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c1bdb17724ec380800000000000000
+      internalID: -8949142330202711033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_53
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 262
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7a5279f471a9d10800000000000000
+      internalID: 2133043004119033814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 279
+        width: 32
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413a3a54dab073270800000000000000
+      internalID: 8230059682868470548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_55
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 277
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3526b9779427a9bd0800000000000000
+      internalID: -2622658173125041581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 215
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d1d225429a2bf40800000000000000
+      internalID: 5742838448313408815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_57
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 219
+        width: 4
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdd866baddf97a70800000000000000
+      internalID: 8825364060614221238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wal_homel_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7f9c0fb0f59f020800000000000000
+      internalID: 2376034783303694313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wal_homel_4: -8292221268339366571
+      Wal_homel_16: -8131347966380281482
+      Wal_homel_14: 7250161272031473814
+      Wal_homel_44: 4861371475328011112
+      Wal_homel_36: -1400440122011510825
+      Wal_homel_25: 6934755514716005853
+      Wal_homel_19: 4392147274505628671
+      Wal_homel_11: -225805606911714847
+      Wal_homel_49: -6449738303926687801
+      Wal_homel_7: 4695437995415166228
+      Wal_homel_55: -2622658173125041581
+      Wal_homel_32: -7660849251382934995
+      Wal_homel_22: -7349130183471766508
+      Wal_homel_31: -8818546174943513255
+      Wal_homel_38: -7441380042677542464
+      Wal_homel_40: -1440937426030701420
+      Wal_homel_12: 4385838969901880964
+      Wal_homel_46: -809318233821530519
+      Wal_homel_1: 8769287176283135972
+      Wal_homel_57: 8825364060614221238
+      Wal_homel_0: 2073913844824923160
+      Wal_homel_2: -5420637871629824596
+      Wal_homel_35: -6877433472573307325
+      Wal_homel_13: -568761512478741330
+      Wal_homel_42: -5070309038208921587
+      Wal_homel_50: -2148612719162686530
+      Wal_homel_3: 3750983370180498133
+      Wal_homel_56: 5742838448313408815
+      Wal_homel_29: 9148249112870676042
+      Wal_homel_47: 8994361947129055292
+      Wal_homel_41: 1009352154814954234
+      Wal_homel_8: 921512013972271610
+      Wal_homel_48: -819536060994282591
+      Wal_homel_30: 6657427545976493030
+      Wal_homel_6: 4313351565569725814
+      Wal_homel_39: -80859844411043360
+      Wal_homel_10: 8048478281203744360
+      Wal_homel_45: 2612374114533656799
+      Wal_homel_9: -7594203626815181253
+      Wal_homel_34: 4877515405554150598
+      Wal_homel_52: -8949142330202711033
+      Wal_homel_21: -71464669437445537
+      Wal_homel_15: 6610359076138732029
+      Wal_homel_5: -9129816969383584008
+      Wal_homel_24: -4201971190752132847
+      Wal_homel_43: -3399151551448154866
+      Wal_homel_18: -6016899070905749855
+      Wal_homel_33: -2764298172903231825
+      Wal_homel_37: -6031658140814573591
+      Wal_homel_54: 8230059682868470548
+      Wal_homel_17: 4113278384909789401
+      Wal_homel_28: -3469259514997716071
+      Wal_homel_58: 2376034783303694313
+      Wal_homel_53: 2133043004119033814
+      Wal_homel_23: 3743660220273071760
+      Wal_homel_51: -6945331396721842977
+      Wal_homel_26: -4796705389302500873
+      Wal_homel_27: -5234384875255197370
+      Wal_homel_20: -7735060506661127582
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
