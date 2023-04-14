@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(PlayerMover))]
@@ -11,10 +9,10 @@ public class FootSteps : MonoBehaviour
 
     private void Start()
     {
-      _playerMover = GetComponent<PlayerMover>();   
+        _playerMover = GetComponent<PlayerMover>();
     }
 
-    public  void PlayOneShootStep()
+    public void PlayOneShootStep()
     {
         if (_playerMover.Direction == Vector2.zero)
         {
@@ -22,7 +20,7 @@ public class FootSteps : MonoBehaviour
         }
         else
         {
-            _audioSource.clip = _footSteps[Random.Range(0,_footSteps.Length)];
+            _audioSource.clip = _footSteps[Random.Range(0, _footSteps.Length)];
             _audioSource.Play();
         }
     }

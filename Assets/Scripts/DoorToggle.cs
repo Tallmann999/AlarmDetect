@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class DoorToggle : MonoBehaviour
@@ -10,7 +9,7 @@ public class DoorToggle : MonoBehaviour
 
     private void Start()
     {
-        _audioSource.GetComponent<AudioSource>();    
+        _audioSource.GetComponent<AudioSource>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
