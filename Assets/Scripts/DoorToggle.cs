@@ -7,14 +7,9 @@ public class DoorToggle : MonoBehaviour
     [SerializeField] private AudioClip _doorOpen;
     private float _waitingTime = 0.2f;
 
-    private void Start()
-    {
-        _audioSource.GetComponent<AudioSource>();
-    }
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Player")
+        if (collision.TryGetComponent(out PlayerMover playerMover))
         {
             StartCoroutine(PlaySoundAndDisable());
         }
