@@ -1,10 +1,8 @@
 using UnityEngine;
 
-[RequireComponent(typeof(AlarmComponent))]
 public class AlarmDetector : MonoBehaviour
 {
     private AlarmComponent _alarmComponent;
-
     public bool IsTriggerDetect { get; private set; }
 
     private void Start()
@@ -26,7 +24,7 @@ public class AlarmDetector : MonoBehaviour
         if (collision.TryGetComponent(out PlayerMover playerMover))
         {
             IsTriggerDetect = false;
-            _alarmComponent.PlaySound();
+            _alarmComponent.StopSound();
         }
     }
 }
