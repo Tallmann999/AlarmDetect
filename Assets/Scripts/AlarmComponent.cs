@@ -10,20 +10,25 @@ public class AlarmComponent : MonoBehaviour
     [SerializeField] private float _fadeSpeed = 1f;
 
     private float _targetVolume;
-    private Coroutine _coroutine;
+    private Coroutine _activeCoroutine = null;
 
     public void PlaySound()
     {
         _targetVolume = 0.5f;
         _audioSource.Play();
-        _coroutine = StartCoroutine(ChangeVolume());
+        _activeCoroutine = StartCoroutine(ChangeVolume());
     }
 
     public void StopSound()
     {
         _targetVolume = 0f;
-        StopCoroutine(_coroutine);
-        _coroutine = StartCoroutine(ChangeVolume());
+
+        if (_activeCoroutine != null)
+        {
+            StopCoroutine(_activeCoroutine);
+        }
+
+        _activeCoroutine = StartCoroutine(ChangeVolume());
     }
 
     private IEnumerator ChangeVolume()

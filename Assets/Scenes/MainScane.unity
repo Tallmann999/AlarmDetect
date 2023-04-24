@@ -1274,8 +1274,8 @@ GameObject:
   - component: {fileID: 435996828}
   - component: {fileID: 435996826}
   - component: {fileID: 435996825}
-  - component: {fileID: 435996829}
   - component: {fileID: 435996827}
+  - component: {fileID: 435996829}
   m_Layer: 0
   m_Name: AlarmComponent
   m_TagString: Untagged
@@ -2608,7 +2608,7 @@ MonoBehaviour:
   _rigidbody2D: {fileID: 667505210}
   _animator: {fileID: 667505216}
   _speed: 2
-  _baseSpeed: 3
+  _baseSpeed: 2.5
 --- !u!210 &667505215
 SortingGroup:
   m_ObjectHideFlags: 0
