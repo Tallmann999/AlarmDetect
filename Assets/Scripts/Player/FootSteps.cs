@@ -3,9 +3,10 @@ using UnityEngine;
 [RequireComponent(typeof(PlayerMover))]
 public class FootSteps : MonoBehaviour
 {
-    private PlayerMover _playerMover;
     [SerializeField] private AudioSource _audioSource;
     [SerializeField] private AudioClip[] _footSteps;
+
+    private PlayerMover _playerMover;
 
     private void Start()
     {

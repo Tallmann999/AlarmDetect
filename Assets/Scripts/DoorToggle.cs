@@ -5,6 +5,7 @@ public class DoorToggle : MonoBehaviour
 {
     [SerializeField] private AudioSource _audioSource;
     [SerializeField] private AudioClip _doorOpen;
+
     private float _waitingTime = 0.2f;
 
     private void OnTriggerEnter2D(Collider2D collision)

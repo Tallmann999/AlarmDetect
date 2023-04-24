@@ -1,12 +1,11 @@
 using System.Collections;
 using UnityEngine;
 
-[RequireComponent(typeof(AlarmDetector))]
-public class AlarmComponent : MonoBehaviour
+public class Alarm : MonoBehaviour
 {
     [SerializeField] private AudioSource _audioSource;
     [SerializeField] private float _minVolume = 0f;
-    [SerializeField] private float _maxVolume = 1f;
+    [SerializeField] private float _maxVolume = 0.5f;
     [SerializeField] private float _fadeSpeed = 1f;
 
     private float _targetVolume;
@@ -14,14 +13,14 @@ public class AlarmComponent : MonoBehaviour
 
     public void PlaySound()
     {
-        _targetVolume = 0.5f;
+        _targetVolume = _maxVolume;
         _audioSource.Play();
         _activeCoroutine = StartCoroutine(ChangeVolume());
     }
 
     public void StopSound()
     {
-        _targetVolume = 0f;
+        _targetVolume = _minVolume;
 
         if (_activeCoroutine != null)
         {
