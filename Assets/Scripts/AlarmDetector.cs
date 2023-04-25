@@ -3,18 +3,18 @@ using UnityEngine;
 [RequireComponent(typeof(Alarm))]
 public class AlarmDetector : MonoBehaviour
 {
-    private Alarm _alarmComponent;
+    private Alarm _alarm;
 
     private void Start()
     {
-        _alarmComponent = GetComponent<Alarm>();
+        _alarm = GetComponent<Alarm>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.TryGetComponent(out PlayerMover playerMover))
         {
-            _alarmComponent.PlaySound();
+            _alarm.IncreasesSound();
         }
     }
 
@@ -22,7 +22,7 @@ public class AlarmDetector : MonoBehaviour
     {
         if (collision.TryGetComponent(out PlayerMover playerMover))
         {
-            _alarmComponent.StopSound();
+            _alarm.ReducesSound();
         }
     }
 }

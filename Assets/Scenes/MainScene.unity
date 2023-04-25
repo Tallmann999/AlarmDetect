@@ -1272,10 +1272,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 435996828}
+  - component: {fileID: 435996829}
   - component: {fileID: 435996826}
   - component: {fileID: 435996825}
   - component: {fileID: 435996827}
-  - component: {fileID: 435996829}
   m_Layer: 0
   m_Name: AlarmComponent
   m_TagString: Untagged

@@ -11,14 +11,20 @@ public class Alarm : MonoBehaviour
     private float _targetVolume;
     private Coroutine _activeCoroutine = null;
 
-    public void PlaySound()
+    public void IncreasesSound()
     {
         _targetVolume = _maxVolume;
         _audioSource.Play();
+
+        if (_activeCoroutine != null)
+        {
+            StopCoroutine(_activeCoroutine);
+        }
+
         _activeCoroutine = StartCoroutine(ChangeVolume());
     }
 
-    public void StopSound()
+    public void ReducesSound()
     {
         _targetVolume = _minVolume;
 
