@@ -1,0 +1,11 @@
+{
+    "name": "RussianTranslationMode",
+    "modId": "dsis11.RussianTranslationMode",
+    "version": "1.0",
+    "creator": "dsis11",
+    "description": "Данный мод добавляет русскую локализацию, УРА ТОВАРИЩИ.This mod adds Russian localization, URA COMRADES",
+    "isReady": true,
+    "modType": 0,
+    "additionalDataPaths": [],
+    "startLevel": ""
+}
